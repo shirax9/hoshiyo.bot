@@ -1,0 +1,1 @@
+# hoshiyo.bot
